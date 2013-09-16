@@ -1,4 +1,4 @@
 
-#The jTribe [wiki](wiki)
+#The jTribe [wiki](//github.com/jtribe/howto/wiki)
 
-Please [read](wiki)
+Please [read](//github.com/jtribe/howto/wiki) and contribute
