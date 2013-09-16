@@ -1,4 +1,4 @@
 
-#The jTribe [wiki](_pages)
+#The jTribe [wiki](wiki)
 
-Please read and add to them as required
+Please [read](wiki)
